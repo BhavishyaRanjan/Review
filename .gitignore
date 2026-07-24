@@ -1,0 +1,99 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# JetBrains Rider caches
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+!**/packages/build/
+.nuget/packages/
+
+# Logs
+*.log
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]enchmarkDotNet.Artifacts/
+
+# Coverage reports
+coverage/
+coverage.*
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+
+# Dotnet CLI
+artifacts/
+
+# Local settings
+appsettings.Development.json
+secrets.json
+
+# Azure Functions
+local.settings.json
+
+# Environment files
+.env
+.env.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.orig
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Generated files
+Generated/
+wwwroot/lib/
+
+# Node (if frontend exists)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Package lock files (optional)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
