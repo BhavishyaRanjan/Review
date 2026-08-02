@@ -22,8 +22,9 @@ namespace CodingProblems_GoogleClassRoom.PracticeProblem1
             Console.WriteLine("Simple Interest = " + si);
         }
 
-        static void Main()
+        public static void Main(string[] args)
         {
             SimpleInterest();
         }
     }
+}
