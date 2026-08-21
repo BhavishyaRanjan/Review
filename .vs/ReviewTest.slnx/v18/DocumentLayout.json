@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vigyan\\source\\repos\\ReviewTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09546476-D75A-4487-B8DB-E07A0D56DEC0}|Review\\Review.csproj|c:\\users\\vigyan\\source\\repos\\reviewtest\\review\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09546476-D75A-4487-B8DB-E07A0D56DEC0}|Review\\Review.csproj|solutionrelative:review\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43998A42-7B0A-0E7D-5D37-DD0BBB7D0300}|ReviewTest\\ReviewTest.csproj|c:\\users\\vigyan\\source\\repos\\reviewtest\\reviewtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43998A42-7B0A-0E7D-5D37-DD0BBB7D0300}|ReviewTest\\ReviewTest.csproj|solutionrelative:reviewtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Vigyan\\source\\repos\\ReviewTest\\Review\\Class1.cs",
+              "RelativeDocumentMoniker": "Review\\Class1.cs",
+              "ToolTip": "C:\\Users\\Vigyan\\source\\repos\\ReviewTest\\Review\\Class1.cs",
+              "RelativeToolTip": "Review\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T06:21:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Vigyan\\source\\repos\\ReviewTest\\ReviewTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ReviewTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Vigyan\\source\\repos\\ReviewTest\\ReviewTest\\UnitTest1.cs",
+              "RelativeToolTip": "ReviewTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T06:11:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Vigyan\source\repos\ReviewTest\Review\bin\Debug\net10.0\Review.deps.json
+C:\Users\Vigyan\source\repos\ReviewTest\Review\bin\Debug\net10.0\Review.dll
+C:\Users\Vigyan\source\repos\ReviewTest\Review\bin\Debug\net10.0\Review.pdb
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\Review.AssemblyInfoInputs.cache
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\Review.AssemblyInfo.cs
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\Review.csproj.CoreCompileInputs.cache
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\Review.sourcelink.json
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\Review.dll
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\refint\Review.dll
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\Review.pdb
+C:\Users\Vigyan\source\repos\ReviewTest\Review\obj\Debug\net10.0\ref\Review.dll
